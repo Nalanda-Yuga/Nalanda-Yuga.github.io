@@ -1,0 +1,40 @@
+{
+  "environment": "web",
+  "format": "html",
+  "prefix": "https://storage.googleapis.com",
+  "mainga": "UA-49880327-14",
+  "updated": "2021-06-02T05:06:31Z",
+  "id": "express-mongodb-rest-api-using-solid",
+  "duration": 24,
+  "title": "REST API with Express \u0026 MongoDB",
+  "authors": "Vikas Kumar",
+  "summary": "In this codelab, you'll build a rest api backend using express and mongodb. This NodeJs backend can be used with any consumer like React or Android.",
+  "source": "1SvBH143NtbKK-Ihof5MQ71i1P805aEOGO8N6FdKilUs",
+  "theme": "web",
+  "status": [
+    "published"
+  ],
+  "category": [
+    "Web"
+  ],
+  "tags": [
+    "cds17",
+    "chrome-dev-summit-2016",
+    "devfest18",
+    "gdd17",
+    "io2016",
+    "io2017",
+    "io2018",
+    "io2019",
+    "jsconfeu",
+    "kiosk",
+    "pwa-dev-summit",
+    "pwa-roadshow",
+    "tag-web",
+    "typtwd17",
+    "web"
+  ],
+  "feedback": "https://github.com/googlecodelabs/your-first-pwapp/issues",
+  "ga": "UA-52746336-1",
+  "url": "express-mongodb-rest-api-using-solid"
+}
